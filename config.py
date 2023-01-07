@@ -1,6 +1,8 @@
+import TOKEN
+
 settings = {
     'prefix': '!',
-    'token': 'MTA2MDY0Mzc0MzMzNTcxNDg3Ng.G_wCBk.IQimvwdwUpafLsfgEMSwgKpBfPFiSRt0z2Dyto'
+    'token': TOKEN.token
 }
 urls = {
     'mamamia': 'https://cdn.discordapp.com/attachments/698200479217483860/1041419679903784960/telegram-cloud-photo-size-2-5442857354250011359-x.jpg',
